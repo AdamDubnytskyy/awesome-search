@@ -269,7 +269,7 @@ book uses to target ads to you](https://www.washingtonpost.com/news/the-intersec
 ## Conferences
 
 * [Activate](https://www.activate-conf.com/)
-* [Berlin buzzword](berlinbuzzwords.de)
+* [Berlin buzzword](https://berlinbuzzwords.de)
 * [Haystack](https://haystackconf.com/)
 * [Elastic{ON}](https://www.elastic.co/elasticon/)
 * [MIX-CAMP E-COMMERCE SEARCH](http://www.mices.co)
